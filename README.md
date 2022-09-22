@@ -4,7 +4,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ## Project under development
 
-This project is being developed with the Mobile First workflow using HTML and CSS.
+This project was being developed with the Mobile First workflow but I decided to try out the desktop first approach.
+Both versions are now available and some more code refactoring is needed.
 
 
 ## Author
